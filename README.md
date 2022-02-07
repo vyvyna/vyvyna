@@ -3,7 +3,7 @@
 
 ## About me
 
-☺️: I'm currently learning Basic Programming skiils.<br/>
+☺️: I'm currently learning Basic Programming skills.<br/>
 :pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/>
 📮 How to reach me: yeana0129@gmail.com
 
